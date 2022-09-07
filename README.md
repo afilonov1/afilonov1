@@ -1,6 +1,6 @@
-### Привет
-### Я фронтенд разработчик
-### Стэк технологий: 
+#### Приветствую
+### Я Frontend разработчик, в разработке более года
+#### Используемые технологии: 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
@@ -11,9 +11,10 @@
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+#### В свободное время изучаю Backend на node.js, чтобы делать Full-stack проекты на фрилансе
 
-### Контакты:
-### 📧 Почта: afilonov1@yandex.ru
-### 🌐 Telegram: [@afilonov](https://t.me/afilonov)
+#### Контакты:
+#### 📧 Почта: afilonov1@yandex.ru
+#### 🌐 Telegram: [@afilonov](https://t.me/afilonov)
 
 ![](https://komarev.com/ghpvc/?username=afilonov1&style=flat-square&color=blueviolet)
